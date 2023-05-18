@@ -90,8 +90,8 @@ html {
     }
 }
 body {
-    font-family: 'Poppins', sans-serif;
-    color: #303030;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -99,8 +99,8 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 p{
-    font-family: 'Poppins', sans-serif;
-    color: #303030;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -118,7 +118,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #303030;
     font-weight: 400;
     font-variant-ligatures: common-ligatures;
@@ -193,7 +193,7 @@ a:active {
     outline: none;
 }
 a {
-    color: #333;
+    color: #ffffff;
     text-decoration: none;
 }
 a:hover,
